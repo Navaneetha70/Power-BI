@@ -31,7 +31,7 @@ Power BI (Power Query, DAX)
 Data Cleaning & Transformation
 Data Visualization
 ## Power BI Visualization
-![Healthcare Data](https://raw.githubusercontent.com/Navaneetha70/Power-BI/main/healthcare%20Data%20.png)
+![Healthcare Data](https://github.com/Navaneetha70/Power-BI/blob/main/healthcare%20Data%20.png?raw=true)
 Author
 Navaneetha
 https://www.linkedin.com/in/navaneetha-c-71b2402b5/
